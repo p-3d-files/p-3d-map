@@ -37,6 +37,8 @@ To share this link and this initiative, you can use the image with the text belo
 
 ![image](https://github.com/p-3d-files/p-3d-map/blob/main/images/p-3d-map-share.jpg)
 
+إنسخ النّص أدناه وإستعمله على وسائل التواصل الإجتماعي - Copy the text below and use it on social media
+
 ```خريطة فلسطين بالعربي والانجليزي، يمكنك تنزيلها وتحويلها الى نموذج حقيقي وملموس بسهولة بإستخدام طابعة ثلاثية الأبعاد، للمزيد من التفاصيل عن هذه المبادرة ولتنزيل الملفات، قم بزيارة هذا الرابط: https://github.com/p-3d-files/p-3d-map #the_real_map  #الخريطة_الحقيقية```
 
 ```A map of Palestine in Arabic and English. You can download it and turn it into a real, tangible model easily using a 3D printer. For more details about this initiative and to download the files, visit this link: https://github.com/p-3d-files/p-3d-map #the_real_map  #الخريطة_الحقيقية```
